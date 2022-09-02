@@ -1,6 +1,18 @@
 # chvimenv
 Change vim environment with symblic links.
 
+```
+chvimenv - Change vim environment with symblic links.
+
+  Arguments:
+    $1: vim_environment_name
+          - Vim environment directory witch has a .vim directory and a .vimrc file.
+              ~/.vim-venvs/vim_environment_name/.vim
+              ~/.vim-venvs/vim_environment_name/.vimrc
+  Usage:
+    chvimenv vim_environment_name
+```
+
 ## Installation
 Run the bellow command to install.
 ```
