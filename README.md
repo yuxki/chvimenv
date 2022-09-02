@@ -27,14 +27,14 @@ chvimenv vim-envionment-name
 ```
 
 ### Preparation
-This scirpt needs .vim-venvs directory
+This scirpt needs .vim-venvs directory.
 
-- 1.Make required directories.
+- Make required directories.
 ```
 mkdir -p .vim-venvs/vim-envionment-name/.vim
 ```
 
-- 2.Copy your vimrc file.
+- Copy your vimrc file.
 ```
 cp  .vimrc .vim-venvs/vim-envionment-name/.vimrc
 ```
