@@ -1,5 +1,5 @@
 # chvimenv
-Change vim environment
+Change vim environment with symblic links.
 
 ## Installation
 Run the bellow command to install.

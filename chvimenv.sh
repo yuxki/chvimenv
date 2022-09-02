@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # -------------------------------------------------------------------------------------------------
-# chvimenv - Change vim environment.
+# chvimenv - Change vim environment with symblic links.
 #   Arguments:
 #     $1: vim_environment_name
 #
